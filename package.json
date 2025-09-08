@@ -1,0 +1,24 @@
+{
+  "name": "aaaaboard",
+  "Mname": "aaaaboard",
+  "author": "aaaabot",
+  "version": "0.0.1",
+  "description": "Official frontend client for aaaabot",
+  "homepage": "https://aaaaboard.aaaabot.net",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/content": "3.6.3",
+    "@nuxt/ui": "4.0.0-alpha.1",
+    "@vite-pwa/assets-generator": "^1.0.1",
+    "@vite-pwa/nuxt": "^1.0.4",
+    "nuxt": "4.1.1"
+  }
+}

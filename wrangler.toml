@@ -1,0 +1,9 @@
+name = "aaaaboard"
+compatibility_date = "2030-01-01"
+routes = [
+    { pattern = "aaaaboard.aaaabot.net", custom_domain = true }
+]
+preview_urls = false
+
+[assets]
+directory = "./dist"
