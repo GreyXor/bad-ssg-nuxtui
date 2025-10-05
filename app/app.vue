@@ -1,5 +1,4 @@
 <template>
-  <NuxtPwaAssets />
   <UApp>
     <UDashboardGroup >
       <DashboardSidebar />
